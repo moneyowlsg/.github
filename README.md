@@ -1,20 +1,23 @@
 # MoneyOwl Pte Ltd
 
-**Empowering everyone to improve their financial health.**
+**Helping people make better financial decisions**
 
-MoneyOwl is a Singapore-based social enterprise, financial adviser, and fund management company, now part of the Temasek Trust ecosystem. We are licensed by the Monetary Authority of Singapore (MAS) as a financial adviser and capital markets services licensee.
+MoneyOwl is a Singapore-based financial advisory and social enterprise focused on improving financial well-being and enabling better financial action.
 
-## Our Mission
-
-We believe good financial advice shouldn't be a privilege. Our mission is to help everyday people — including lower- to middle-income working adults, shift and gig workers, and youths — take the right financial action to secure better financial futures, regardless of income level.
+We believe good financial guidance should be clear, practical and impartial. Our goal is to help people understand their finances, navigate important financial decisions and take meaningful action with confidence.
 
 ## What We Do
 
-- **Financial Education** — Helping people understand core financial planning principles through accessible tools, guides, and resources.
-- **Independent Financial Advice** — Unbiased, conflict-free guidance that isn't tied to selling commercial products.
-- **Cost-Effective Solutions** — Curated, low-cost investment and insurance solutions, including passive index fund portfolios via OwlInvest and CPF-friendly investment options.
-- **Digital + Human ("Bionic") Advice** — Combining technology-driven financial models with dedicated client advisers to deliver advice that's both scalable and personal.
-- **Community Partnerships** — Working with corporates and community organisations to expand access to financial literacy and affordable financial products for underserved groups.
+MoneyOwl brings together **financial expertise, technology and education** to make financial planning more accessible and actionable.
+
+Our work includes:
+
+- **Financial Education** — Making topics such as CPF, retirement, investing, insurance, housing and financial planning easier to understand.
+- **Financial Planning Tools** — Building digital tools and calculators that help people understand their options and make informed decisions.
+- **Financial Solutions** — Developing solutions that help people put sound financial planning principles into practice.
+- **Financial Wellness** — Working with organisations to improve the financial well-being and financial capability of their employees and communities.
+- **Research & Thought Leadership** — Contributing research, perspectives and practical insights on issues affecting the financial well-being of people in Singapore.
+- **Partnerships** — Collaborating with organisations and communities to make useful financial knowledge and solutions available to more people.
 
 ## Connect With Us
 
